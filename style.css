@@ -23,13 +23,13 @@ section{
 section div{
     width: 200px;
     height: 300px;
-    background-color: rgb(223, 62, 4);
+    background-color: rgb(223, 62, 4) !important;
 }
 article button{
     padding: 10px 60px;
     border: none;
     border-radius: 20px;
-    background-color: seagreen;
+    background-color: rgb(9, 4, 104);
     color: white;
 }
 aside{
